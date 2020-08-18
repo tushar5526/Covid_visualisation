@@ -11,6 +11,11 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
+
+
+![map of india](map.png)
+
+
 This project visualises the current COVID position of India on a map using Folium
 
 Hover over the markers and click it :p
