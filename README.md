@@ -1,14 +1,15 @@
-//-- ----------------------------------- How to Use ------------------------------------------- 
+# How to Use
 
---> Clone the project
+- Clone the project
 
---> run pip install -r requirements.txt
+- run ```pip install -r requirements.txt```
 
--- > python3 main.py
+- ```python3 main.py```
 
--- >It will launch a firefox tab showing the map
+- It will launch a google-chrome tab showing the map, if you dont have chrome installed open the generated `map.html` with any browser.
 
-/=----------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------
 
 This project visualise the current COVID position of India on a map using Folium
 
