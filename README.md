@@ -1,7 +1,7 @@
 
 ![map of india](map.png)
 
-This project visualises the current COVID stats of India on a map using Folium. The map is updated on a weekly basis using GitHub Actions and Cron Jobs.
+This project visualises the current COVID stats of India on a map using Folium. The map is updated on a weekly basis using `GitHub Actions and Cron Jobs`.
 
 **Hover over the markers and click it :p**
 
