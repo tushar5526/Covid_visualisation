@@ -31,7 +31,7 @@ for i in range(len(city_data)):
     if "active" not in city_data[i]:
         continue
     total_active += int(city_data[i]["active"])
-    avg_active_cases = total_active // len(city_data)
+    avg_active_cases =total_active // len(city_data)
 
 for i in range(len(city_data)):
     if "active" not in city_data[i]:
