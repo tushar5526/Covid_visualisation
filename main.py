@@ -37,7 +37,7 @@ for i in range(len(city_data)):
     if "active" not in city_data[i]:
         continue
 
-    active = city_data[i]["active"]
+    active=city_data[i]["active"]
     lat = city_data[i]["lat"]
     long = city_data[i]["lng"]
     tooltip = "active: " + active + " confirmed: " + city_data[i]["confirmed"]
