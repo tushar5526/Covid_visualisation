@@ -5,7 +5,7 @@ import requests
 import json
 
 r = requests.get(url="https://api.covid19india.org/data.json")
-statewise_covid_data = json.loads(r.content)["statewise"]
+statewise_covid_data= json.loads(r.content)["statewise"]
 
 with open("capital_data.json", "r") as f:
     json_text= f.read()
